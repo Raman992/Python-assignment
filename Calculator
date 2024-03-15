@@ -1,6 +1,6 @@
 num1 = int(input("Enter the 1st number: "))
 num2 = int(input("Enter the 2st number: "))
-operator = input("Enter the following operators to perform the operation ( + , - , / , x ): ")
+operator = input("Enter the following choices ( + , - , / , x ): ")
 
 
 if operator == '+':
@@ -12,4 +12,4 @@ elif operator == 'x':
 elif operator == '/':
     print(f"{num1} / {num2} = {num1 / num2}")
 else:
-    print("Invalid operator")
+    print("Chose garya milena hai")
