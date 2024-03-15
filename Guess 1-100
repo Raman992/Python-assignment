@@ -16,5 +16,5 @@ while True:
         print("Enter number between 1-100")
     guessCount+=1
 
-print(f"\nJackpot! The number was {keyCode}")
-print(f"It took you {guessCount} attempt")
+print(f"\nThyakkai milayo ta k ho {keyCode}")
+print(f"{guessCount}choti try garnu paryo xya")
