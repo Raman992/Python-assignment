@@ -1,7 +1,6 @@
 import random
 
 keyCode = random.randint(1,100)
-print(keyCode)
 guessCount = 1
 
 while True:
